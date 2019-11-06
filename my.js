@@ -59,4 +59,4 @@ arr.push('Рок-н-ролл');
 arr[Math.floor(arr.length/2)] = 'Классика';
 alert ( arr.shift() );
 arr.unshift('Рэп', 'Регги');
-printArr (arr);
+printArr (arr); 
